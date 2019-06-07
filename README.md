@@ -1,6 +1,6 @@
 # Pickup Winder
 
-Software for an arduino-based machine to wire electromechanical pickups. Can be used to wire guitar pickups. I build to wire pickups for an electric ukulele I build.
+Software for an arduino-based machine to wire electromechanical pickups. Can be used to wire guitar pickups. I build it to wire pickups for an electric ukulele I build.
 
 ![Pickup Winder Image](image.jpg)
 
